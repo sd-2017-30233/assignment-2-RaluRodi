@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookstore>
+
+<book>
+  <genre>cooking</genre>
+  <title>Everyday Italian</title>
+  <author>Giada De Laurentiis</author>
+  <quantity>20</quantity>
+  <price>30</price>
+</book>
+
+
+<book> 
+  <genre>children</genre>
+  <title>Harry Potter</title>
+  <author>J K. Rowling</author>
+  <quantity>50</quantity>
+  <price>25</price>
+</book>
+
+<book> 
+  <genre>web</genre>
+  <title>Learning XML</title>
+  <author>Erik T. Ray</author>
+  <quantity>0</quantity>
+  <price>55.5</price>
+</book>
+
+
+<book><genre>children</genre><title>Ratusca cea urata</title><author/><quantity>20</quantity><price>50.0</price></book></bookstore>

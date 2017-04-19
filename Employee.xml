@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employees>
+
+<empl>
+  <name>Popescu Dan</name>
+  <age>33</age>
+  <empl_date>10-03-2016</empl_date>
+</empl>
+
+<empl>
+  <name>Ionescu Vasile</name>
+  <age>28</age>
+  <empl_date>15-05-2015</empl_date>
+</empl>
+
+<empl>
+  <name>Pop Ana</name>
+  <age>35</age>
+  <empl_date>22-01-2016</empl_date>
+</empl>
+
+
+</employees>
